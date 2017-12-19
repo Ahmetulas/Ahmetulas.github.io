@@ -192,7 +192,7 @@ padding: 2px;
 }
 
 #pb:hover{
-  transform: scale(3.2) rotate(360deg);
+  transform: scale(3.2);
   margin-bottom: 60px;
 
 }
