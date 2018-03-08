@@ -167,6 +167,20 @@ margin: 0;
   margin-left: 33%;
 }
 
+.list-skill{
+  width: 50%;
+  margin:auto;
+}
+
+.list-skill img{
+  height: 150px;
+  max-width: 170px;
+  padding: 60px 60px 10px 10px;
+}
+div.section svg{
+  color: white;
+  font-size: 50px;
+}
 
 #image1{
   background-image: url(./image/background3.jpg);
@@ -175,6 +189,7 @@ margin: 0;
 
 #image2{
   background-image: url(./image/background2.jpg);
+
 }
 
 #image3{
@@ -182,7 +197,7 @@ margin: 0;
 }
 
 #pb{
-border-radius: 5px;
+border-radius: 55px;
 width: 100px;
 height: auto;
 transition: all .5s ease .1s;
